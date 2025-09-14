@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-14)
+## Unreleased (2025-09-14)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2384637`](https://github.com/stdlib-js/stdlib/commit/2384637c93769537900b4b4bde3b183dabe80912) - **docs:** fix example _(by Athan Reines)_
 -   [`400fcbb`](https://github.com/stdlib-js/stdlib/commit/400fcbb91753cc2a47d428a65a29ee455a208768) - **refactor:** avoid unnecessary copies, update examples, and refactor benchmarks _(by Athan Reines)_
 -   [`3dc813f`](https://github.com/stdlib-js/stdlib/commit/3dc813f651cb17221a93968b772795b7b9a1c5e6) - **feat:** add `array/base/remove-at` _(by Athan Reines)_
 
