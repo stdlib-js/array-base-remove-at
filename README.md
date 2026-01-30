@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-base-remove-at/tags). For example,
+
+```javascript
 import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@v0.1.0-esm/index.mjs';
 ```
 
@@ -107,7 +112,7 @@ The function accepts the following arguments:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
 import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
-import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@v0.1.0-esm/index.mjs';
+import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@esm/index.mjs';
 
 // Create an array of random numbers:
 var x = discreteUniform( 10, 0, 5, {
