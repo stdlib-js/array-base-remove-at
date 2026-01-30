@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@deno/mod.js';
+import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@v0.1.0-deno/mod.js';
 ```
 
 #### removeAt( x, index )
@@ -102,7 +102,7 @@ The function accepts the following arguments:
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import randi from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
-import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@deno/mod.js';
+import removeAt from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-remove-at@v0.1.0-deno/mod.js';
 
 // Create an array of random numbers:
 var x = discreteUniform( 10, 0, 5, {
