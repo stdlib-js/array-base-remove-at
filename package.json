@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-remove-at",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Remove an element from an array.",
   "license": "Apache-2.0",
   "author": {
